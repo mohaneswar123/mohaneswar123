@@ -97,6 +97,5 @@ Excel • Tableau • Power BI • NumPy
 
 ---
 
-## ✨ Fun Fact
-I love building tools that solve real problems — from attendance systems to AI recipe generators and budgeting apps!
+## ✨ I love building tools that solve real problems — from attendance systems to AI recipe generators and budgeting apps!
 
