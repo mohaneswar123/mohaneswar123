@@ -89,14 +89,6 @@ Excel • Tableau • Power BI • NumPy
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohaneswar123&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaneswar123&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 🌍 **Portfolio:** https://pvmohaneswar.netlify.app  
 🔗 **LinkedIn:** https://www.linkedin.com/in/pvmohan-eswar04  
