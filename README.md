@@ -1,60 +1,110 @@
-<h1 align="center">Hi 👋, I'm P V Mohan Eswar</h1>
-<h3 align="center">Full-Stack Developer | Spring Boot | React | Data Analytics Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Venkata Mohan Eswar Puvvada</h1>
+<h3 align="center">Full-Stack Developer | React & Spring Boot | Data Analytics Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
-- 🧑‍💻 Full-stack developer skilled in **React, Spring Boot, SQL, and MongoDB**  
-- 📊 Strong interest in **Data Analytics & Data Visualization**  
-- 🧱 Experience building real-world projects using **automation, AI integration, and Docker deployment**
-- 🥇 Hackathon Winner – Built a **Carbon Tracking Application**
+## 🚀 About Me
+- 🎓 B.Tech CSE student at **KL University** (CGPA: 9.3/10)
+- 🧑‍💻 Full-stack developer skilled in **React, Spring Boot, SQL, MongoDB**
+- 🤖 Passionate about **Automation, AI Integrations, DevOps & Scalable Architecture**
+- 🥇 **Winner – Code4Change 2025 Hackathon**
+- 🔥 Built real-world applications loved by students, developers, and academic teams
+- 🌐 Portfolio: **https://pvmohaneswar.netlify.app**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### **Frontend**
-- React, Vite, Tailwind, JavaScript, HTML, CSS
+### **Programming**
+Java • Python • SQL • JavaScript • OOP
 
-#### **Backend**
-- Spring Boot, REST APIs, Java, JSP/Servlets
+### **Frontend**
+React • Vite • HTML • CSS • TailwindCSS
 
-#### **Databases**
-- SQL, MySQL, MongoDB
+### **Backend**
+Spring Boot • Spring MVC • REST APIs • JSP/Servlets
 
-#### **Tools & DevOps**
-- Docker, GitHub Actions, n8n Automation, Postman, Render, Netlify
+### **Databases**
+MySQL • PostgreSQL • MongoDB
 
----
+### **DevOps & Automation**
+Docker • CI/CD • Jenkins • Kubernetes • n8n • GitHub Actions
 
-### 🔥 Featured Projects
-
-#### **Attendance Management System – React + Spring Boot**
-Automated attendance system used in Tier-3 college environments.  
-- Fast 10-second entry  
-- Auto subject-wise percentage calculation  
-- Improves staff & student efficiency  
-
-#### **AI Smart Pantry & Recipe Generator – React + Spring Boot**
-- Tracks kitchen items  
-- AI-based recipe generation  
-- Expiry alerts via n8n automation  
-
-#### **Personal Budget Planner – React + Spring Boot + SQL (Docker Deployed)**
-- Income, expenses, and savings tracking  
-- SQL-based financial model  
-- Fully containerized using Docker
-  
----
-
-### 🌐 Connect With Me  
-- 💼 LinkedIn: **[www.linkedin.com/in/pvmohan-eswar04](#)**  
-- 📧 Email: **pvmohaneswar@gmail.com**  
-- 🌍 Portfolio: **pvmohaneswar.netlify.app**  
+### **Data Analytics**
+Excel • Tableau • Power BI • NumPy
 
 ---
 
-### ✨ Fun Fact  
-I love building **automated tools** that save time for real users — whether it's attendance, budgeting, or kitchen management!
+## 🔥 Featured Projects
+
+### 📘 **Attendance Management System — React + Spring Boot**
+🔗 Live: https://attendanceinhand.netlify.app  
+- Automated attendance platform for Tier-3 colleges  
+- 10-second daily attendance entry  
+- Auto subject-wise percentage calculations  
+- Reduces manual effort for staff & students  
 
 ---
+
+### 🍽️ **AI Kitchen Pantry & Recipe Generator — React + Spring Boot + n8n**
+🔗 Live: https://aikitchenpantry.netlify.app/products  
+- Tracks pantry items and reduces food wastage  
+- Smart expiry alerts using **n8n automation**  
+- AI-powered recipe generation using available ingredients  
+- Includes data visualizations for insights  
+
+---
+
+### 💰 **Personal Budget Planner — React + Spring Boot + SQL (Docker Deployed)**
+🔗 Live: https://budgetplanner123.netlify.app  
+- Tracks income, expenses, spending patterns & savings  
+- SQL-based financial data model  
+- REST API backend + clean modern UI  
+- Deployed using **Docker** for consistent performance  
+
+---
+
+### 🏆 **Carbon Footprint Tracking App — Hackathon Winner**
+- Built for **Code4Change 2025** (1st place among 100+ teams)  
+- Real-time carbon score, analytics dashboard & recommendations  
+- Strengthened skills in innovation, rapid prototyping, teamwork  
+
+---
+
+## 🧑‍💼 Experience
+
+### **Full-Stack Developer Intern — Self-Initiated (Mar 2025 – Present)**
+- Developed entire backend & 60% of frontend  
+- Designed scalable REST APIs using Spring Boot  
+- Built UI using React Hooks & component-based architecture  
+- Appreciated by project manager for **efficiency & code quality**  
+
+---
+
+## 🎓 Certifications
+- Dynamic Programming & Greedy Algorithms — Coursera  
+- Introduction to Git & GitHub — Coursera  
+- Deloitte Data Analytics Job Simulation — Forage  
+  - Built Tableau dashboard, analyzed data in Excel  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohaneswar123&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaneswar123&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+🌍 **Portfolio:** https://pvmohaneswar.netlify.app  
+🔗 **LinkedIn:** https://www.linkedin.com/in/pvmohan-eswar04  
+🐙 **GitHub:** https://github.com/mohaneswar123  
+📧 **Email:** 2300030566cseh1@gmail.com  
+
+---
+
+## ✨ Fun Fact
+I love building tools that solve real problems — from attendance systems to AI recipe generators and budgeting apps!
+
